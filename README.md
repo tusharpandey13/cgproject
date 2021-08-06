@@ -10,7 +10,6 @@
 * Collision detection
 * Variable movement speed by handling keypress events
 
-![nknkn](./ss.png)
 
 ## Usage
 
@@ -24,3 +23,5 @@ make && chmod +x ./main
 ```bash
 ./main
 ```
+
+![nknkn](./ss.png)
